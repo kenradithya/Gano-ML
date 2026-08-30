@@ -1,0 +1,31 @@
+# Compiled binaries and build outputs
+build/
+bin/
+*.o
+*.a
+*.hex
+*.bin
+*.elf
+
+# Environment & IDE
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
+*.log
+
+# Research documentation, raw datasets and tools
+GanoPlusML/
+tools/
+*.docx
+*.pdf
+*.html
+*.png
+*.txt
+*.csv
+*.ps1
+*.md
+!README.md
+*.py
+__pycache__/
